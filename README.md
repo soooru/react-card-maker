@@ -1,3 +1,7 @@
+# 이 프로젝트는 무엇입니까?
+
+드림코딩 엘리의 강의를 따라가며 만들어 보는 business card maker 입니다.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
